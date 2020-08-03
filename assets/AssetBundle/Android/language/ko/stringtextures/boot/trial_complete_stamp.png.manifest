@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 3465259668
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5221a4c17055043f39bc84ea60607fce
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c1642440719609290a7e09a50a7286f4
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/InAppGame/Language/ko/StringTextures/boot/trial_complete_stamp.png
+Dependencies: []

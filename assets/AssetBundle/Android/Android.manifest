@@ -1,0 +1,13 @@
+ManifestFileVersion: 0
+CRC: 4125731113
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: assetbundlelistbin/assetbundlelist_ja.bytes
+      Dependencies: {}
+    Info_1:
+      Name: assetbundlelistbin/assetbundlelist_ko.bytes
+      Dependencies: {}
+    Info_2:
+      Name: assetbundlelistbin/assetbundlelist_en.bytes
+      Dependencies: {}

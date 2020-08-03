@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 1194642727
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2075e8294a439f46f001006b2b1c93d1
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 1033bf7ddfd4c6d43e7a6382c0a0a61a
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+Assets:
+- Assets/InAppGame/UnitDataBin/ConnectSkill.bytes
+Dependencies: []

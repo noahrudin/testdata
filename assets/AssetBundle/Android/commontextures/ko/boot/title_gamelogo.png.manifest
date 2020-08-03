@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 3275234696
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: faac72b32c3ae305c9b7951fe8d2559b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c1642440719609290a7e09a50a7286f4
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/InAppGame/CommonTextures/ko/boot/title_gamelogo.png
+Dependencies: []

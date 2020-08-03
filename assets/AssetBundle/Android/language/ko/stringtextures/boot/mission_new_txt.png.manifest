@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 1911762815
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 88d9c8ffeb9e83f01fc6d97b19daa166
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c1642440719609290a7e09a50a7286f4
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/InAppGame/Language/ko/StringTextures/boot/mission_new_txt.png
+Dependencies: []

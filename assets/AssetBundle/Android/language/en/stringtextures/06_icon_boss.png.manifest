@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 1756784663
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 47660addd01f41726925fa9bc3e43a30
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c1642440719609290a7e09a50a7286f4
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/InAppGame/Language/en/StringTextures/06_Icon_Boss.png
+Dependencies: []

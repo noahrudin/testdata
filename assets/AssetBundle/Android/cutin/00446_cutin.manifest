@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 2906119413
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: dc80c35e9249701a851a44baa9920720
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c1642440719609290a7e09a50a7286f4
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/InAppGame/CutIn/00446_cutin/00446_rarecutin.png
+- Assets/InAppGame/CutIn/00446_cutin/00446_chain.png
+Dependencies: []

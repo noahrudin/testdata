@@ -1,0 +1,34 @@
+ManifestFileVersion: 0
+CRC: 2011643892
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2aaf655768b40bbcd92a7b93907951ef
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 0e7f8c1bc2cda12880aaa9d39c2554c7
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 36afb9848ccda9b479bea9f90b7ae497, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b1e62e356922d8046b49b01c6694333c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 88989aec64ae26d479c796cdfd0aef44, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7a097c5d23bfd4b419e654573585b97a, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/InAppGame/Sprite/Unit/Sprite/0999_mock.prefab
+Dependencies: []

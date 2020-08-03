@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 1144037719
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b6da2611da872686a4bc7fd67c5f1764
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c1642440719609290a7e09a50a7286f4
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/InAppGame/Language/ko/StringTextures/boot/feature_txt.png
+Dependencies: []

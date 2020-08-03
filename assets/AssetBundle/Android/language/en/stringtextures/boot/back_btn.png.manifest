@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 949028798
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a78bff45a85d01bd2f92f858db708c0a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c1642440719609290a7e09a50a7286f4
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/InAppGame/Language/en/StringTextures/boot/back_btn.png
+Dependencies: []

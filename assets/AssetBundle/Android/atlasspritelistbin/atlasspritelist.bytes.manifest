@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 2869414838
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c78a0b3d3138010ea9e5168afe363d58
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 1033bf7ddfd4c6d43e7a6382c0a0a61a
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+Assets:
+- Assets/InAppGame/AtlasSpriteListBin/AtlasSpriteList.bytes
+Dependencies: []

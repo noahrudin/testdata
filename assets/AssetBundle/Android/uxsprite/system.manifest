@@ -1,0 +1,63 @@
+ManifestFileVersion: 0
+CRC: 4067537571
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 01c641fa6d9ef4943d23cc5215a2d7f5
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: d18769800c45c362fa9a01a4aeae8609
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 36afb9848ccda9b479bea9f90b7ae497, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b1e62e356922d8046b49b01c6694333c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 02dea295711b4f145b47f732b81425a8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 88989aec64ae26d479c796cdfd0aef44, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7a097c5d23bfd4b419e654573585b97a, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/InAppGame/UXSprite/System/sys_0008_shadow.prefab
+- Assets/InAppGame/UXSprite/System/sys_0021_hit_zangeki.prefab
+- Assets/InAppGame/UXSprite/System/sys_0010_recovery_chara.prefab
+- Assets/InAppGame/UXSprite/System/cutin_3.prefab
+- Assets/InAppGame/UXSprite/System/sys_0108_ninjutsu.prefab
+- Assets/InAppGame/UXSprite/System/sys_0071_ougi_standby.prefab
+- Assets/InAppGame/UXSprite/System/sys_0119_chakramax_ougi.prefab
+- Assets/InAppGame/UXSprite/System/sys_0074_last_hit_back.prefab
+- Assets/InAppGame/UXSprite/System/sys_0003_cursor.prefab
+- Assets/InAppGame/UXSprite/System/sys_0012_kemuri_b.prefab
+- Assets/InAppGame/UXSprite/System/sys_0145_heart_killer.prefab
+- Assets/InAppGame/UXSprite/System/sys_0094_chakra_standby.prefab
+- Assets/InAppGame/UXSprite/System/Cutin_2.prefab
+- Assets/InAppGame/UXSprite/System/sys_0040_up.prefab
+- Assets/InAppGame/UXSprite/System/sys_0109_ougi.prefab
+- Assets/InAppGame/UXSprite/System/sys_0073_ougi_hatsdou.prefab
+- Assets/InAppGame/UXSprite/System/sys_0019_mob_teleport.prefab
+- Assets/InAppGame/UXSprite/System/sys_0072_jyutu_hatudou.prefab
+- Assets/InAppGame/UXSprite/System/sys_0118_chakramax.prefab
+- Assets/InAppGame/UXSprite/System/sys_0020_hit_dageki.prefab
+- Assets/InAppGame/UXSprite/System/sys_0093_chakra_recovery.prefab
+- Assets/InAppGame/UXSprite/System/sys_0070_jyutu_standby.prefab
+Dependencies: []

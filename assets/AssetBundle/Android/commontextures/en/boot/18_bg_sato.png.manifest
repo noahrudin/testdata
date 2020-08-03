@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 3382122042
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b1dbcce8f47ffd2e3d70e3bc3764f07a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c1642440719609290a7e09a50a7286f4
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/InAppGame/CommonTextures/en/boot/18_BG_Sato.png
+Dependencies: []

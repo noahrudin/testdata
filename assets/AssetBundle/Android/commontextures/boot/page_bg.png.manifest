@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 147266821
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a599f0544a2492645feb48c6cf1f2715
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c1642440719609290a7e09a50a7286f4
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/InAppGame/CommonTextures/boot/page_bg.png
+Dependencies: []

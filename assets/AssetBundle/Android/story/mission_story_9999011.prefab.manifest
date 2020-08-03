@@ -1,0 +1,46 @@
+ManifestFileVersion: 0
+CRC: 3095894342
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5f25a1c1f2d1d1f98ab9f4e4f5bd644f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 80da590be4241fadacc96c4cdd508af6
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: ae942c9068183dc40a9d01f648273726, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3efd5475148d67e4388fc0f441f214e2, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e93a0cc5287b09f4d912e2e6a8b088b6, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f8014fc9cb9274c0c81c0003d5eca3ab, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ca71cbca2974f45e9ac783bc8c37044b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4d0c51bb0b6e93049af5e88f93826e3b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 82724f1edb1254204bec268bfc4d685e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b7b999cfd9c0f44cc9fcf4cad08944c7, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+Assets:
+- Assets/InAppGame/Story/mission_story_9999011.prefab
+Dependencies: []

@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 4035440586
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8fb8dec4bbddf264a14783c0686a141e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 1033bf7ddfd4c6d43e7a6382c0a0a61a
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+Assets:
+- Assets/InAppGame/IDList/IconImageList.txt
+Dependencies: []

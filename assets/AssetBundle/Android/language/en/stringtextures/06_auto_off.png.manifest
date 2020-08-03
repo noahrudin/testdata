@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 3728766048
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b56ae3c798ae27ecfbb270a456bbad4c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c1642440719609290a7e09a50a7286f4
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/InAppGame/Language/en/StringTextures/06_Auto_off.png
+Dependencies: []

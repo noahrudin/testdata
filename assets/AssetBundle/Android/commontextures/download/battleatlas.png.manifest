@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 2988538856
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 28f3bece10f97ce11c6a164799f20e0c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c1642440719609290a7e09a50a7286f4
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/InAppGame/CommonTextures/download/BattleAtlas.png
+Dependencies: []

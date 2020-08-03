@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 1045866759
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b643666f2d81d1ce4588785d7700e994
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 1033bf7ddfd4c6d43e7a6382c0a0a61a
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+Assets:
+- Assets/InAppGame/AssetBundleListBin/assetbundlelist_ko.bytes
+Dependencies: []

@@ -1,0 +1,50 @@
+ManifestFileVersion: 0
+CRC: 2534376544
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 76eb1b32639657c12cd8a18b6897f099
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: d18769800c45c362fa9a01a4aeae8609
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 36afb9848ccda9b479bea9f90b7ae497, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b1e62e356922d8046b49b01c6694333c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 02dea295711b4f145b47f732b81425a8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 88989aec64ae26d479c796cdfd0aef44, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7a097c5d23bfd4b419e654573585b97a, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/InAppGame/Sprite/Gimmick/0010_gimmick/0010305_gimmick.prefab
+- Assets/InAppGame/Sprite/Gimmick/0010_gimmick/0010303_gimmick.prefab
+- Assets/InAppGame/Sprite/Gimmick/0010_gimmick/0010205_gimmick.prefab
+- Assets/InAppGame/Sprite/Gimmick/0010_gimmick/0010105_gimmick.prefab
+- Assets/InAppGame/Sprite/Gimmick/0010_gimmick/0010203_gimmick.prefab
+- Assets/InAppGame/Sprite/Gimmick/0010_gimmick/0010104_gimmick.prefab
+- Assets/InAppGame/Sprite/Gimmick/0010_gimmick/0010304_gimmick.prefab
+- Assets/InAppGame/Sprite/Gimmick/0010_gimmick/0010103_gimmick.prefab
+- Assets/InAppGame/Sprite/Gimmick/0010_gimmick/0010204_gimmick.prefab
+Dependencies: []

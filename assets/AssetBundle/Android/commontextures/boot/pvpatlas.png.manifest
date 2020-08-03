@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 2867224071
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 54bd42b813f7eb0267e136b87c2e58e6
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c1642440719609290a7e09a50a7286f4
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/InAppGame/CommonTextures/boot/PvPAtlas.png
+Dependencies: []

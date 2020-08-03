@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 3745239763
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e5161bf16df1b14744148997e703af49
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 1033bf7ddfd4c6d43e7a6382c0a0a61a
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+Assets:
+- Assets/InAppGame/IDList/SpriteBgList.txt
+Dependencies: []

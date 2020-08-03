@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 4282267963
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: dd114bcd0599a292e8c2baf4667095be
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c1642440719609290a7e09a50a7286f4
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/InAppGame/CommonTextures/en/boot/img_download_0003.png
+Dependencies: []

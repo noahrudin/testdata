@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 897003660
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 43ca256de27762309d613ac541405d29
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c1642440719609290a7e09a50a7286f4
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/InAppGame/Language/en/StringTextures/boot/ability_up_txt.png
+Dependencies: []

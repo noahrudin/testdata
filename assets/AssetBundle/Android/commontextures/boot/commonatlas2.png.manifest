@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 686655033
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5d8a53207881c93d4e12d3d073a83cbf
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c1642440719609290a7e09a50a7286f4
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/InAppGame/CommonTextures/boot/CommonAtlas2.png
+Dependencies: []

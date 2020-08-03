@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 1660443074
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 826942b949fab799edd88e19ec8d244d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c1642440719609290a7e09a50a7286f4
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/InAppGame/Language/ko/StringTextures/sortie_txt.png
+Dependencies: []

@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 3359047545
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b486a4426c8bef40a101af4e9368c9fb
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 1033bf7ddfd4c6d43e7a6382c0a0a61a
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+Assets:
+- Assets/InAppGame/IDList/StoryBgList.txt
+Dependencies: []

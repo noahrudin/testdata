@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 1014575023
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 823b5840cca2a4017b316cc1746ce347
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c1642440719609290a7e09a50a7286f4
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/InAppGame/Language/en/StringTextures/boot/shop_campaign_badge.png
+Dependencies: []

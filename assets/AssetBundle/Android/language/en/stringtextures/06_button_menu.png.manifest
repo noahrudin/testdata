@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 276478793
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 694599bfe1e9990b001c1fa2e8388113
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c1642440719609290a7e09a50a7286f4
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/InAppGame/Language/en/StringTextures/06_Button_menu.png
+Dependencies: []

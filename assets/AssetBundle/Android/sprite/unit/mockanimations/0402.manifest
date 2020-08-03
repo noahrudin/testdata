@@ -1,0 +1,41 @@
+ManifestFileVersion: 0
+CRC: 877591598
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f122a4221429c872505f91a5135593a7
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 01b02e75457745b81d0a25a03a1349b4
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 02dea295711b4f145b47f732b81425a8, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/InAppGame/Sprite/Unit/MockAnimations/0402/3040210001R.prefab
+- Assets/InAppGame/Sprite/Unit/MockAnimations/0402/3040220001L.prefab
+- Assets/InAppGame/Sprite/Unit/MockAnimations/0402/2040221354R.prefab
+- Assets/InAppGame/Sprite/Unit/MockAnimations/0402/2040221354L.prefab
+- Assets/InAppGame/Sprite/Unit/MockAnimations/0402/0040200002R.prefab
+- Assets/InAppGame/Sprite/Unit/MockAnimations/0402/3040220001R.prefab
+- Assets/InAppGame/Sprite/Unit/MockAnimations/0402/0040200004R.prefab
+- Assets/InAppGame/Sprite/Unit/MockAnimations/0402/3040200001R.prefab
+- Assets/InAppGame/Sprite/Unit/MockAnimations/0402/0040200003R.prefab
+- Assets/InAppGame/Sprite/Unit/MockAnimations/0402/1040200001L.prefab
+- Assets/InAppGame/Sprite/Unit/MockAnimations/0402/3040210001L.prefab
+- Assets/InAppGame/Sprite/Unit/MockAnimations/0402/0040200002L.prefab
+- Assets/InAppGame/Sprite/Unit/MockAnimations/0402/0040200004L.prefab
+- Assets/InAppGame/Sprite/Unit/MockAnimations/0402/1040200001R.prefab
+- Assets/InAppGame/Sprite/Unit/MockAnimations/0402/0040200003L.prefab
+- Assets/InAppGame/Sprite/Unit/MockAnimations/0402/3040200001L.prefab
+Dependencies: []

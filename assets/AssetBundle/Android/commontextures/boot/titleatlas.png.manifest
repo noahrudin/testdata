@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 2854424051
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3a3b9e814c3f27c2e7e9f7c81f9a9d3e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c1642440719609290a7e09a50a7286f4
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/InAppGame/CommonTextures/boot/TitleAtlas.png
+Dependencies: []

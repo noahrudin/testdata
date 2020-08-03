@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 43837529
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3a069135424290aadf202bde3e551011
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c1642440719609290a7e09a50a7286f4
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/InAppGame/Language/ko/StringTextures/charaicon_tokko_txt.png
+Dependencies: []

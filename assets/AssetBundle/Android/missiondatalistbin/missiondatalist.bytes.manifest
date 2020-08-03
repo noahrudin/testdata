@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 125098104
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 960c8d8c83d49d80e42e8d9854a2c8e1
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 1033bf7ddfd4c6d43e7a6382c0a0a61a
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+Assets:
+- Assets/InAppGame/MissionDataListBin/MissionDataList.bytes
+Dependencies: []
